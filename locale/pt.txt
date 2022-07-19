@@ -1,0 +1,116 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_07633A1F_16D9_0F08_418C_9A86826744DA.source = http://twitter.com/loremipsum
+LinkBehaviour_0094AB58_174B_0D17_41A9_D31502AC4E4A.source = http://twitter.com/loremipsum
+LinkBehaviour_0763EA1F_16D9_0F08_41B5_33571F19274D.source = http://www.facebook.com/loremipsum
+LinkBehaviour_00911B59_174B_0D09_418E_8CA231599A82.source = http://www.facebook.com/loremipsum
+LinkBehaviour_0094FB64_174B_0D3F_4185_924DF2F08830.source = https://g.page/drogariamix?share
+LinkBehaviour_001872A2_1749_1F3B_41B0_528CB9BEA98F.source = https://g.page/drogariamix?share
+LinkBehaviour_019CBF07_175B_06F8_41B3_BB9CCD404FB8.source = https://linktr.ee/drogariamix_farma
+LinkBehaviour_00949B63_174B_0D39_418A_3F1248B512B4.source = https://linktr.ee/drogariamix_farma
+LinkBehaviour_02C04BFA_16C9_0D08_41A6_B910028673E8.source = https://upinfinitus.com/
+LinkBehaviour_02CEEBFD_16C9_0D08_4190_71EEE8521CCA.source = https://upinfinitus.com/
+LinkBehaviour_02C0DC00_16C9_0AF8_41A8_38DF54D9C750.source = https://upinfinitus.com/
+LinkBehaviour_02CF7C03_16C9_0AF8_419A_0C601620126E.source = https://upinfinitus.com/
+LinkBehaviour_02CD1C05_16C9_0AF8_41A0_1F8C1287405F.source = https://upinfinitus.com/
+LinkBehaviour_02C0FC0C_16C9_0B08_419A_D1D706C29472.source = https://upinfinitus.com/
+LinkBehaviour_02C30BF1_16C9_0D18_41AA_C06E30F75713.source = https://upinfinitus.com/
+LinkBehaviour_02CE6BF7_16C9_0D18_418E_C16FD99E3FA4.source = https://upinfinitus.com/
+LinkBehaviour_02ED4EBB_16CB_0709_4171_74B4BDE31EBA.source = https://upinfinitus.com/
+LinkBehaviour_02C15C11_16C9_0B18_41AB_4BE73F4681AF.source = https://upinfinitus.com/
+LinkBehaviour_02CFCC13_16C9_0B18_4172_CE5DE232DDC5.source = https://upinfinitus.com/
+LinkBehaviour_02C1AC16_16C9_0B18_41B3_873A8B4D690E.source = https://upinfinitus.com/
+LinkBehaviour_02949D28_16C9_0537_41A2_810CB8C7F0A4.source = https://upinfinitus.com/
+LinkBehaviour_02C34BEF_16C9_0D08_41AE_D0AE8B844B05.source = https://upinfinitus.com/
+LinkBehaviour_02C3CBF3_16C9_0D1F_41A6_17A5AF52DDC5.source = https://upinfinitus.com/
+LinkBehaviour_03DCA73B_16C9_0509_41B0_EFF2ACACA2A1.source = https://upinfinitus.com/
+LinkBehaviour_02C25BEC_16C9_0D08_41A1_03A0A7EA0E0A.source = https://upinfinitus.com/
+LinkBehaviour_02C1AC09_16C9_0B08_41B0_E18BDEF7F251.source = https://upinfinitus.com/
+LinkBehaviour_02C11C07_16C9_0AF8_41AE_F0F503EE3DDC.source = https://upinfinitus.com/
+LinkBehaviour_02CE6C0E_16C9_0B08_417F_975BAB87D5B0.source = https://upinfinitus.com/
+LinkBehaviour_00965B61_174B_0D39_41AD_2EF72F0D56D2.source = https://www.instagram.com/drogariamix_farma/
+LinkBehaviour_01DE656B_1759_0508_41A3_773F5829A979.source = https://www.instagram.com/drogariamix_farma/
+LinkBehaviour_00939B77_174B_0D19_41AF_0D76396FA70D.source = https://www.loremipsum.com
+LinkBehaviour_07631A1F_16D9_0F08_4191_2DD406524E2F.source = https://www.loremipsum.com
+
+## Media
+
+### Audio
+audiores_04659FE9_16C9_0509_41B1_6E0E7BC64B02.mp3Url = media/audio_04F65F7B_16CB_0509_41B1_7EB26F5F0CC4_pt.mp3
+
+### Title
+panorama_1C55D282_16BF_1FFB_418C_FA74383F1764.label = Corredor 11
+panorama_1C55B5EA_16BF_050B_41A7_930BF9374F60.label = Corredor 21
+panorama_1C55E40E_16BF_3B0B_41AD_4ECC0B46D988.label = Corredor 22
+
+panorama_1C5557B7_16BF_0519_41A0_AD2E47F90DD0.label = Corredor 31
+panorama_1C540DDD_16B9_0509_41A7_627AA3801F23.label = Corredor 32
+panorama_1C5479DE_16B9_0D0B_4193_DEC89B3BE2FA.label = Corredor 41
+panorama_1C54AC0E_16B9_0B0B_4180_D86B37FA4DEF.label = Corredor 42
+panorama_1C54A491_16B9_3B19_419B_8CF96E56057A.label = Corredor 51
+panorama_1C54B325_16B9_1D39_41B0_F063BE8B783A.label = Corredor 52
+panorama_1C575726_16B9_053B_41A3_4EFB85E6A205.label = Entrada
+panorama_1C57817E_16B9_1D0B_41A4_A75D0921FED6.label = Fachada Frente
+panorama_1A663375_16B9_1D18_41B2_B9F2A9E43A01.label = Fachada Lateral
+
+panorama_1C578E2D_16B9_0709_4173_5A25DD51BE78.label = Frente 1
+panorama_1C57CB9E_16B9_0D0B_41B5_3CDC15239799.label = Frente 2
+
+panorama_1C57796A_16B9_0D0B_418F_84DD78101A8F.label = Frente 3
+panorama_1C548103_16B9_7AF8_4197_2A3965E460AF.label = Fundo 4
+panorama_1C55812A_16BF_7D0B_41A8_4174BDD9A4EB.label = corredor 12
+panorama_1C55AD88_16BF_0508_418D_4C3EECE0F73A.label = fundo 1
+panorama_1C546F8A_16BF_050B_41A0_3C6C845A2110.label = fundo 2
+
+panorama_1C573E97_16B9_0719_418D_9D28B4657BE9.label = fundo 3
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = GO TO BUY 
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = INSTAGRAM
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = INSTAGRAM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = LOCALIZAÇÃO
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = LOCALIZAÇÃO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = PEÇA PELO WHATSAPP
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = PEÇA PELO WHATSAPP
+
+### Image
+Image_00C7C069_1749_3B09_41A2_6DF46D191246_mobile.url = skin/Image_00C7C069_1749_3B09_41A2_6DF46D191246_mobile_pt.jpg
+Image_00C7C069_1749_3B09_41A2_6DF46D191246.url = skin/Image_00C7C069_1749_3B09_41A2_6DF46D191246_pt.jpg
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile_pt.png
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_pt.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0199999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.57vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.45vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0199999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.57vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.45vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.249999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.43vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.6);text-align:left;font-size:5.249999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.6);text-align:left;font-size:7.43vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360 realizado pela Upinfinitus
+
+### Title
+tour.name = Drogaria Mix Farma
